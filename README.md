@@ -1,2 +1,2 @@
-# simple-crud
+# creud-refresher
 crud refresher with PDO
